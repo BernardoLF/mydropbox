@@ -1,3 +1,54 @@
-body { background-color: black;
-       color: white 
+body {
+    margin: 0px;
+}
+
+header { background-color: white; 
      }
+
+.logodropbox {
+    background-color: blue;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-right: 20px;
+}
+
+.dropboxtitulo 
+    {
+    position: absolute;
+    top: 8px;
+    left: 60px;
+    font-size: 1.7em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+
+.textowhydropbox 
+    {
+    position: absolute;
+    top: 14px;
+    left: 190px;
+    font-size: 1.2em;
+   }
+
+.textoproducts 
+    {
+    position: absolute;
+    top: 14px;
+    left: 335px;
+    font-size: 1.2em;
+    }
+
+.textosolutions 
+    {
+    position: absolute;
+    top: 14px;
+    left: 425px;
+    font-size: 1.2em;
+    }   
+
+.textopricing 
+    {
+    position: absolute;
+    top: 14px;
+    left: 525px;
+    font-size: 1.2em;
+    }
